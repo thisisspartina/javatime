@@ -1,7 +1,6 @@
-# Javatime 
+# It's Java time. 
 ## 
-A bit more than a "Hello World" program. Wanted to try a write a simple program for a text-based game in Java for practice. 
-Creative material inspired by inside joke.
+Wanted to have a go at something a bit more than a Hello World project. Wrote a simple program for a text-based game in Java for practice. Creative material inspired by inside joke.
 
 ### Purpose:
 Adventure style text-based game in Java you can play in the command line.
